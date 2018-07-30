@@ -40,3 +40,7 @@ If done successfully you will see blood particles, and your blood level will rai
 - Chicken **(1 Blood)** 
 
 *more mobs being added in the future depending on feedback on this datapack*
+
+### Feel free do donate if you want to support me! **(This is not required!!)**
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](<theuseranimated@gmail.com>)
