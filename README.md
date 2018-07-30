@@ -43,4 +43,4 @@ If done successfully you will see blood particles, and your blood level will rai
 
 ### Feel free do donate if you want to support me! **(This is not required!!)**
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](<theuseranimated@gmail.com>)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](<https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=theuseranimated%40gmail%2ecom&lc=US&item_name=UserAnimated&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted>)
