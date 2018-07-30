@@ -31,6 +31,12 @@ If done successfully you will see blood particles, and your blood level will rai
 
 ## List of mobs you can take blood from are
 
-Cows(3 Blood) Sheep(2 Blood) Pig(2 Blood) Chicken(1 Blood) Zombie(5 Blood) Husk(5 Blood) Horse(5 Blood) Villager (15 Blood)
+- Villager (15 Blood)
+- Zombie (5 Blood) 
+- Husk (5 Blood) 
+- Horse (5 Blood) 
+- Sheep (2 Blood) 
+- Pig (2 Blood) 
+- Chicken (1 Blood) 
 
 *more mobs being added in the future depending on feedback on this datapack*
