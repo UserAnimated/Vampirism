@@ -2,7 +2,7 @@
 
 ## Follow me to keep up to date with my current projects. 
 
-#### [My Twitter](http://www.twiiter.com/useranimated) and [My Curseforge](https://www.curseforge.com/members/theuseranimated) lol test
+#### [My Twitter](http://www.twiiter.com/useranimated) and [My Curseforge](https://www.curseforge.com/members/theuseranimated)
 
 ## Installation
 
